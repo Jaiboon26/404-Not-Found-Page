@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{404-PAGE-NOT-FOUND}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://www.figma.com/file/HHtMUFDKCELvtUxRhL0cm4/Untitled?type=design&node-id=0%3A1&t=BWz88aUhZRqzgNlh-1">
       Demo
     </a>
     <span> | </span>
@@ -30,28 +30,22 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-[screenshot](https://github.com/Jaiboon26/404-Not-Found-Page/blob/fe19a398cd051ae761fe291856b8df098e2a07bc/404-NOT-FOUND-PAGES.png)
+![404-NOT-FOUND-PAGES](https://github.com/Jaiboon26/404-Not-Found-Page/assets/133299258/754700b4-5932-4ac2-b5cb-579696cdc179)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Demo on Figma (https://www.figma.com/file/HHtMUFDKCELvtUxRhL0cm4/Untitled?type=design&node-id=0%3A1&t=BWz88aUhZRqzgNlh-1)
+- This is my first challenges from Devchallenges
+- I want to lern a simple of all language code to see what is my favoarite
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Figma] https://www.figma.com/
 
 ## Features
 
@@ -59,17 +53,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@Jaiboon26](https://{github.com/Jaiboon26})
