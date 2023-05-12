@@ -36,8 +36,7 @@
 
 ## Overview
 
-<!--![screenshot](https://www.figma.com/file/HHtMUFDKCELvtUxRhL0cm4/Untitled?type=design&node-id=0%3A1&t=BWz88aUhZRqzgNlh-1)-->
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHHtMUFDKCELvtUxRhL0cm4%2FUntitled%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DBWz88aUhZRqzgNlh-1" allowfullscreen></iframe>
+[screenshot](https://github.com/Jaiboon26/404-Not-Found-Page/blob/fe19a398cd051ae761fe291856b8df098e2a07bc/404-NOT-FOUND-PAGES.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
